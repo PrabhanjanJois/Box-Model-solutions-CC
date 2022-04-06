@@ -18,6 +18,6 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Box_Model_Tas
  \
  -->Box-model-3 []
  
-The snapshots of the outputs are uploaded and can found in <b> SnapShots </b> Folder above in the repo.
+The snapshots of the outputs are uploaded and can be found in <b> SnapShots </b> Folder above in the repo.
    
  
