@@ -12,11 +12,12 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Box_Model_Tas
  \
  The solutions of the box modlels are named as [can be found in the above repo]
  \
- -->Box-model-1 [Box Model Task 1: Standard and Alternate Box Models]
  \
- -->Box-model-2 [Box Model Task 2: Margin, Border, and Padding]
+ -->Box-model-1 [Task 1: Standard and Alternate Box Models]
  \
- -->Box-model-3 [Box Model Task 3: Inline Block]
+ -->Box-model-2 [Task 2: Margin, Border, and Padding]
+ \
+ -->Box-model-3 [Task 3: Inline Block]
  
 The snapshots of the outputs are uploaded and can be found in <b> SnapShots </b> Folder above in the repo.
    
