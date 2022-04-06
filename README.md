@@ -1,6 +1,6 @@
 # Box-Model-solutions-CC
 
-Hii greetings from my end, I have completed the <b>Test your skills: The Box Model<b> from the MDN website.
+Hii greetings from my end, I have completed the <b>Test your skills: The Box Model<b> Assesment from the MDN website.
  \
  \
 The link for the assesment page is as follows\
