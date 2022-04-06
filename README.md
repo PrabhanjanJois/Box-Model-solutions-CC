@@ -1,6 +1,6 @@
 # Box-Model-solutions-CC
 
-Hii greetings from my end, I have completed the <b>Test your skills: The Box Model<b> Assesment from the MDN website.
+Hii greetings from my end, I have completed the <b>Test your skills: The Box Model</b> Assesment from the MDN website.
  \
  \
 The link for the assesment page is as follows\
@@ -18,6 +18,6 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Box_Model_Tas
  \
  -->Box-model-3 []
  
-The snapshots of the outputs are uploaded and can found in <b> SnapShots <b> Folder above in the repo.
+The snapshots of the outputs are uploaded and can found in <b> SnapShots </b> Folder above in the repo.
    
  
